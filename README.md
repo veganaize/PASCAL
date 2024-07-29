@@ -24,3 +24,12 @@ Tutorials
 * [Modern Object Pascal](https://castle-engine.io/modern_pascal_introduction.pdf) - Michalis Kamburelis
 * [Pascal Tutorial](https://swordsandsoftware.com/pascal.htm) - Daniel D'Agostino
 * [Pascal Quick Guide](https://www.tutorialspoint.com/pascal/pascal_quick_guide.htm) - Tutorials Point
+
+
+Videos
+------
+
+* [Lazarus App Tutorial 12 - System Timer Bouncing Ball Animation - Shapes](https://youtu.be/hNaZTtJkZ0s) - SchoolFreeware
+* [Lazarus App Tutorial 13 - Bouncing Balls Animation - Parallel Arrays](https://youtu.be/MahHxXEkFF0) - SchoolFreeware
+* [Lazarus Tutorial #11 - Using the debugger](http://web.archive.org/web/20190613115814/https://www.devstructor.com/index.php?page=19948) - Devstructor
+* [Lazarus Tutorial #12 - Retro Style Pong Game](http://web.archive.org/web/20190613064945/https://www.devstructor.com/index.php?page=22552) - Devstructor
