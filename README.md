@@ -4,6 +4,8 @@ Turbo Pascal resources
 * [Free Pascal](https://www.freepascal.org/)
 * [Lazarus IDE](https://www.lazarus-ide.org/)
 * [Dev-Pascal](http://www.bloodshed.net/Dev-Pascal) - bloodshed
+* [Turbo Pascal 5.5](https://web.archive.org/web/20040211224332/http://bdn.borland.com/article/0,1410,20803,00.html) - borland
+
 
 Books
 -----
