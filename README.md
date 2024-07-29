@@ -12,3 +12,12 @@ Books
 * [Turbo Pascal v7.0 Language Guide (1992)](http://bitsavers.informatik.uni-stuttgart.de/pdf/borland/turbo_pascal/Turbo_Pascal_Version_7.0_Language_Guide_1992.pdf)
 * [Free Pascal Documentation](https://www.freepascal.org/docs.html)
 * [Pascal Programming](https://en.wikibooks.org/wiki/Pascal_Programming) - wikibook
+
+
+Tutorials
+---------
+
+* [Learn Pascal](https://www.taoyue.com/tutorials/pascal) - Tao Yue
+* [Modern Object Pascal](https://castle-engine.io/modern_pascal_introduction.pdf) - Michalis Kamburelis
+* [Pascal Tutorial](https://swordsandsoftware.com/pascal.htm) - Daniel D'Agostino
+* [Pascal Quick Guide](https://www.tutorialspoint.com/pascal/pascal_quick_guide.htm) - Tutorials Point
