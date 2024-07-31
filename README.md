@@ -14,9 +14,9 @@ IDEs
 Books
 -----
 
-* [Turbo Pascal Graphix Toolbox 4.0 (1987)](http://www.bitsavers.org/pdf/borland/turbo_pascal/Turbo_Pascal_Graphix_Toolbox_Version_4.0_1987.pdf)
-* [Turbo Pascal 5.5 Object-Oriented Programming Guide (1989)](https://web.archive.org/web/20031002112622id_/http://bdn.borland.com/article/images/20803/TP_55_OOP_Guide.pdf)
-* [Turbo Pascal 7.0 Language Guide (1992)](http://bitsavers.informatik.uni-stuttgart.de/pdf/borland/turbo_pascal/Turbo_Pascal_Version_7.0_Language_Guide_1992.pdf)
+* [Turbo Pascal 5.0 User's Guide (1989)](http://bitsavers.informatik.uni-stuttgart.de/pdf/borland/turbo_pascal/Turbo_Pascal_Version_5.0_Users_Guide_1989.pdf) (pdf)
+* [Turbo Pascal 5.0 Reference Guide (1989)](http://bitsavers.informatik.uni-stuttgart.de/pdf/borland/turbo_pascal/Turbo_Pascal_Version_5.0_Reference_Guide_1989.pdf) (pdf)
+* [Turbo Pascal 5.5 Object-Oriented Programming Guide (1989)](https://web.archive.org/web/20031002112622id_/http://bdn.borland.com/article/images/20803/TP_55_OOP_Guide.pdf) (pdf)
 * [Free Pascal Documentation](https://www.freepascal.org/docs.html)
 * [Pascal Programming](https://en.wikibooks.org/wiki/Pascal_Programming) - wikibook
 
@@ -25,7 +25,7 @@ Tutorials
 ---------
 
 * [Learn Pascal](https://www.taoyue.com/tutorials/pascal) - Tao Yue
-* [Modern Object Pascal](https://castle-engine.io/modern_pascal_introduction.pdf) - Michalis Kamburelis
+* [Modern Object Pascal](https://castle-engine.io/modern_pascal_introduction.pdf) - Michalis Kamburelis (pdf)
 * [Pascal Tutorial](https://swordsandsoftware.com/pascal.htm) - Daniel D'Agostino
 * [Pascal Quick Guide](https://www.tutorialspoint.com/pascal/pascal_quick_guide.htm) - Tutorials Point
 
